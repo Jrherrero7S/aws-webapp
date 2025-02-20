@@ -87,4 +87,4 @@ Outputs:
 
 
 #para borrar la pila (stack)
-# $ aws cloudformation delete-stack --stack-name ec2-example
+# $ aws cloudformation delete-stack --stack-name ec2-examples
