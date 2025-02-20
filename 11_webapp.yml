@@ -41,7 +41,7 @@ Resources:
           !Ref EnvironmentType,
           InstanceType,
         ]
-      KeyName: !Ref KeyPairName
+      KeyName: vockey
       SecurityGroupIds:
         - !Ref WebAppSecurityGroup
 
